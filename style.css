@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 0;
+  background-image: url("./assets/images/background.jpg");
+  font-family: "Noto Sans Khmer", sans-serif;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  gap: 2rem;
+}
